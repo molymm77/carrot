@@ -1,0 +1,1 @@
+import{I as n,a as o,q as t,o as s}from"./index-CIbk9OI3.js";const r={};function a(l,e){return s(),o("div",null,e[0]||(e[0]=[t("h1",{style:{"text-align":"left","margin-top":"20px"}}," infos ",-1),t("h1",{style:{"text-align":"right","margin-top":"20px"}}," infos ",-1)]))}const f=n(r,[["render",a]]);export{f as default};
